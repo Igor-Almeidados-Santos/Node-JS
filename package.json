@@ -1,0 +1,27 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "aprendendo node",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Almeidados-Santos/Node-JS.git"
+  },
+  "keywords": [
+    "cocococococcococoo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Almeidados-Santos/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Igor-Almeidados-Santos/Node-JS#readme"
+}
